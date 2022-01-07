@@ -1,5 +1,6 @@
 import {mult, splitwords, sum} from './01'
 
+
 let a: number;
 let b: number;
 let c: number;
